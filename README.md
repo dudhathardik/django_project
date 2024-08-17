@@ -1,11 +1,3 @@
-Certainly! Here is the revised README file with the GUI section removed:
-
----
-
-# Django Project
-
-## Project Overview
-
 ### Objective
 Develop a web application using Django to manage and interact with data efficiently.
 
@@ -101,9 +93,6 @@ While this project is not specifically focused on control strategies, it adheres
 
 ## Implementation Details
 
-### Hardware
-Not applicable (web-based project).
-
 ### Software
 - **Django**: The core framework used for the web application.
 - **Additional Libraries**: Managed via `requirements.txt`.
@@ -129,7 +118,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ## Contact
 
